@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">יומן גלים</string>
+    <string name="title_activity_main">יומן גלים</string>
+    <string name="package_name">com.binrozenblum.galim</string>
+    <string name="custom_url_scheme">com.binrozenblum.galim</string>
+</resources>

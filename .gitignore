@@ -1,0 +1,9 @@
+node_modules/
+dist/
+release/
+qa/
+.DS_Store
+keystore.properties
+*.keystore
+*.jks
+*.p8

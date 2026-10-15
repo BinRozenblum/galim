@@ -1,0 +1,6 @@
+node_modules
+dist
+ios/App/build
+ios/App/build-sim
+android/keystore.properties
+android/app/google-services.json

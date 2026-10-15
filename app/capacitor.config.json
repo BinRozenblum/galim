@@ -1,0 +1,44 @@
+{
+  "appId": "com.binrozenblum.galim",
+  "appName": "גלים",
+  "webDir": "dist",
+  "backgroundColor": "#F6F2FB",
+  "android": {
+    "backgroundColor": "#F6F2FB",
+    "allowMixedContent": false,
+    "captureInput": false
+  },
+  "ios": {
+    "backgroundColor": "#F6F2FB",
+    "contentInset": "never",
+    "limitsNavigationsToAppBoundDomains": false,
+    "scrollEnabled": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 600,
+      "launchAutoHide": true,
+      "launchFadeOutDuration": 250,
+      "backgroundColor": "#F6F2FB",
+      "androidSplashResourceName": "splash",
+      "androidScaleType": "CENTER_CROP",
+      "showSpinner": false,
+      "splashFullScreen": false,
+      "splashImmersive": false
+    },
+    "StatusBar": {
+      "overlaysWebView": true,
+      "style": "LIGHT"
+    },
+    "Keyboard": {
+      "resize": "none"
+    },
+    "SystemBars": {
+      "style": "LIGHT",
+      "insetsHandling": "css"
+    },
+    "LocalNotifications": {
+      "iconColor": "#6D28D9"
+    }
+  }
+}
